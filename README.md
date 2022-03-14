@@ -74,3 +74,5 @@
 <img src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
+Inspired by github.com/BrunnerLivio/brunnerlivio
