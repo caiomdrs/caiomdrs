@@ -1,16 +1,76 @@
-### Hi there 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/caiomdrs/caiomdrs/blob/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="" src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/personal_note.svg" />
+  <br />
+  <br />
 
-<!--
-**caiomdrs/caiomdrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<!-- Social -->
+<table width="100%">
+<tr>
+<td align="center">
+<a href="https://www.google.com/">
+<strong>Visite meu site! </strong>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Centering something has never been easy, has it? -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img alt="Globe" height="80" src="https://github.com/caiomdrs/caiomdrs/blob/main/images/globe.gif?raw=true">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</td>
+<td align="center">
+<a href="https://github.com/caiomdrs/caiomdrs/issues/new?template=Guestbook_entry.md">
+<strong>Deixe um recado</strong>
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" alt="Book" src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/book.gif"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+
+<td align="center">
+<a href="">
+<strong>Escute música boa ;)</strong>
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+</tr>
+</table>
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/marquee.svg" />
+<br />
+
+<img src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/caiomdrs/caiomdrs/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
