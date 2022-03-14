@@ -42,7 +42,7 @@
 </td>
 
 <td align="center">
-<a href="">
+<a href="https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo?si=F_nxEb3SRIud-D8emDcN-Q">
 <strong>Escute música boa ;)</strong>
 <br />
 
